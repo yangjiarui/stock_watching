@@ -1,0 +1,1 @@
+python 2redis.py & python calc_angalsfromseq2redis.py & python decisions.py
